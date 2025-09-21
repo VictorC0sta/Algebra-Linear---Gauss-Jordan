@@ -64,4 +64,4 @@ O programa abre um **menu interativo**:
 ---
 
 📌 **Disciplina:** Álgebra Linear  
-📌 **Alunos:** João Victor da Costa Cerqueira e Lucas Guerra – Eng. de Computação 
+📌 **Alunos:** João Victor da Costa Cerqueira e Lucas Guerra de Áraújo – Eng. de Computação 
