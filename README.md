@@ -64,4 +64,4 @@ O programa abre um **menu interativo**:
 ---
 
 📌 **Disciplina:** Álgebra Linear  
-📌 **Aluno:** [Seu Nome] – Eng. de Computação – 5º semestre  
+📌 **Alunos:** João Victor da Costa Cerqueira e Lucas Guerra – Eng. de Computação 
