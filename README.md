@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -84,7 +83,7 @@ No console, vá até a pasta:</p>
 
 <div class="footer">
 📌 <b>Disciplina:</b> Álgebra Linear<br>
-📌 <b>Aluno:</b> [Seu Nome] – Eng. de Computação – 5º semestre
+📌 <b>Alunos:</b> João Victor da Costa Cerqueira e Lucas Guerra – Eng. de Computação – 4º semestre
 </div>
 
 </body>
